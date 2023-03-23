@@ -50,28 +50,13 @@ let linksData = [
   },
   {
     icon: Cloud,
-    name: "网盘",
+    name: "相册",
     link: "https://pan.imsyy.top/",
   },
   {
     icon: CompactDisc,
-    name: "音乐",
+    name: "时光轴",
     link: "https://music.imsyy.top/",
-  },
-  {
-    icon: Compass,
-    name: "起始页",
-    link: "https://nav.imsyy.top/",
-  },
-  {
-    icon: Book,
-    name: "网址集",
-    link: "https://web.imsyy.top/",
-  },
-  {
-    icon: Fire,
-    name: "今日热榜",
-    link: "https://hot.imsyy.top/",
   },
 ];
 

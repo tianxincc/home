@@ -25,8 +25,8 @@ let mainKey = import.meta.env.VITE_WEATHER_KEY;
 // 天气数据
 let weatherData = reactive({
   adCode: {
-    city: null, // 城市
-    adcode: null, // 城市编码
+    city: '武汉', // 城市
+    adcode: 430000, // 城市编码
   },
   weather: {
     weather: null, // 天气现象

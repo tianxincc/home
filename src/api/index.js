@@ -72,8 +72,4 @@ export const getWeather = async (key, city) => {
  * 获取配置
  */
 
-// 获取社交链接
-export const getSocialLinks = async () => {
-  const res = await fetch("/socialLinks.json");
-  return await res.json();
-};
+
