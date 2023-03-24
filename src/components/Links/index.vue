@@ -46,17 +46,17 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://blog.tianxiaomu.cn/",
   },
   {
     icon: Cloud,
     name: "相册",
-    link: "https://pan.imsyy.top/",
+    link: "https://images.tianxiaomu.cn/",
   },
   {
     icon: CompactDisc,
     name: "时光轴",
-    link: "https://music.imsyy.top/",
+    link: "https://timeline.tianxiaomu.cn/",
   },
 ];
 
