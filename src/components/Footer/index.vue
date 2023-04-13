@@ -8,7 +8,7 @@
       &nbsp;&copy;&nbsp;
       <!-- 站点备案 -->
       <a href="https://beian.miit.gov.cn" target="_blank"
-        >鄂ICP备2022003408号</a
+        >鄂ICP备2022019515号</a
       >
     </div>
     <div class="lrc" v-show="store.playerState">
