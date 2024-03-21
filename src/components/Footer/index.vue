@@ -7,9 +7,9 @@
       </span>
       &nbsp;&copy;&nbsp;
       <!-- 站点备案 -->
-      <a href="https://beian.miit.gov.cn" target="_blank"
-        >鄂ICP备2022019515号</a
-      >
+      <a href="https://beian.miit.gov.cn" target="_blank">鄂ICP备2022019515号</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral">本网站由<img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/tianxincc/PicGo@main/Anime/202203282309196.png" alt="logo"/> 提供CDN加速/云存储服务 </a>
     </div>
     <div class="lrc" v-show="store.playerState">
       <music-one theme="filled" size="18" fill="#efefef" />
